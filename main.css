@@ -1,27 +1,20 @@
 .container {
-  height:;
+  height: 700px;
   width: 100%;
-  text-align: center;
-
+  background-color: #3A1313;
 }
 
-.intro {
+.mid-section>p {
   color: white;
-<<<<<<< HEAD
-  font-size: 30px;
-  background-image: url(/images/Frontpage2017/BGImages/blog.jpg); 
-  height: 500px;
-
-}
-
-button {
-
-=======
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
+  color: gray;
 }
+/*
+.mid-class>hr{
+  margin-left: 20px;
+} */
 
-.main-section>.author-info{
-  margin-right: 50px;
->>>>>>> a566030 (working on second section)
+.mid-section >author-info{
+  padding-bottom: 20px;
 }
