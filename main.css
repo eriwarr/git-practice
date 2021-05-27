@@ -7,6 +7,7 @@
 
 .intro {
   color: white;
+<<<<<<< HEAD
   font-size: 30px;
   background-image: url(/images/Frontpage2017/BGImages/blog.jpg); 
   height: 500px;
@@ -15,4 +16,12 @@
 
 button {
 
+=======
+  text-align: center;
+  font-size: 30px;
+}
+
+.main-section>.author-info{
+  margin-right: 50px;
+>>>>>>> a566030 (working on second section)
 }
